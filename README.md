@@ -45,8 +45,10 @@ Developed by: v.A.jithendra
 RegisterNumber: 212221230043
 */
 ~~~
-## HALF SUBTRACTOR
+
 ~~~
+## HALF SUBTRACTOR
+
 module HalfSubtractor(A,B,Diff,Borrow);
 input A,B;
 output Diff,Borrow;
@@ -85,7 +87,8 @@ endmodule
 
 
 ### Timing diagram
-![halfsubtract  timming](https://user-images.githubusercontent.com/94226297/167161971-24a6c1e2-2d27-46a2-a498-6217749fe087.png)
+![halfsubtract  timming  111111111](https://user-images.githubusercontent.com/94226297/167163137-a13566eb-098a-4c1f-a7ed-431aa5eb2380.png)
+
 
 ## Full Subtractor:
 
